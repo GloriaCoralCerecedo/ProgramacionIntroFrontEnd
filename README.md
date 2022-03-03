@@ -14,7 +14,7 @@ Caso: Abogabot
 ***Para el modelamiento de negocios y la vista de proceso, se utilizo la herramienta HEFLO BPM: https://www.heflo.com/***  
 ***Para los requerimientos tanto funcionales como no funcionales, se utilizo la herramienta Miro: https://miro.com/es/***
  
-## 2. Buyer person
+## 2. Buyer persona
 
 ### Se realizaron 2 en donde:
 1. Cliente
